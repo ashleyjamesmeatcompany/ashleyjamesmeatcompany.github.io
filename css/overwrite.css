@@ -1,0 +1,19 @@
+#fh5co-footer {
+    width: 100%;
+    color: rgba(0, 0, 0, 0.9);
+    padding: 7em 0;
+    z-index: 1;
+    font-size: 14px;
+    line-height: 1.5;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+#fh5co-type > .fh5co-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: red;
+    z-index: 9;
+}
